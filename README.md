@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tank Drive with CAN
 
 ### Description
@@ -11,3 +12,10 @@ Set the variables at the beginning of the example to match your setup.
 Control the left motor by moving the left joystick up or down.
 
 Control the right motor by moving the right joystick up or down.
+=======
+# FRC
+
+need to do this idk how:
+left * 0.5 
+right * -0.5
+>>>>>>> a4503e48d65dfa78fb9a7e60bb735b6fdad443be
